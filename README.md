@@ -210,6 +210,7 @@ The BiLSTM + GloVe approach performs well for multi-class mental-health predicti
 Hafiz Muhammad Anas
 Social Media Marketer & Software Engineering Student
 Email: h8991254@gmail.com
+LinkedIn: https://www.linkedin.com/in/hafizanas/
 
 📘 Project Overview
 Objective
